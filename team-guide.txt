@@ -1,2 +1,4 @@
 Team onboarding guide
 Keep changes small and readable.
+On branch feature/team-guide
+nothing to commit, working tree clean
